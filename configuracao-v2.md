@@ -279,6 +279,9 @@
   "livePreview.portNumber": 5000,
   "livePreview.previewDebounceDelay": 0,
   "workbench.activityBar.location": "top",
+  
+  // A IDE não fixar a tag pai no scroll
+  "editor.stickyScroll.enabled": false,
 }
 
 ```
