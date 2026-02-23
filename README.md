@@ -1,6 +1,8 @@
 # Especificações
 Configurações do meu vscode para mac/windows
 
+📍 [`Nova Configuração`](/configuracao-v2.md)
+
 ## Plugins que uso
 - ACF-Snippet
 - Beautify css/sass/scss/less
