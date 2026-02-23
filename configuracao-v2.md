@@ -304,3 +304,4 @@
 }
 
 ```
+Após adicionar, usar o ctrl + shift + p e procurar por `Enable Custom CSS and JS` o vscode vai pedir para reiniciar e após isso, ele vai ativar as configurações.
